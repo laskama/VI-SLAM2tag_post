@@ -1,0 +1,4 @@
+include vslam2tag/data/*/floorplan.png
+include vslam2tag/data/*/marker_dict.pickle
+include vslam2tag/data/floor_dimensions.csv
+include vslam2tag/data/floorplan_dims.pickle

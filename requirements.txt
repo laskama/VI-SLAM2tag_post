@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+scikit-fda
+sklearn
+shapely
+seaborn
+geopandas
+absl
